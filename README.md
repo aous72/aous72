@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![aous72's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aous72)](https://github.com/aous72/github-readme-stats)
+[![aous72's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aous72)](https://github.com/aous72?tab=repositories)
